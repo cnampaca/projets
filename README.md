@@ -9,12 +9,12 @@
 - Connaître les bases du HTML. Savoir organiser un contenu sémantiquement.
 - Connaître les bases du CSS.
 
-### Coming soon basic
+### Coming soon
 Brief:
 
 Richard Castle n’en sait pas encore assez pour vous donner une orientation claire. Il a en revanche acheté un nom de domaine et un hébergement et vous demande de mettre en ligne dès que possible une page annonçant que le site est en cours de réalisation. Le résultat doit s’afficher correctement quel que soit le support.
 
-### Coming soon logo
+### Coming soon photo
 Brief:
 
 Idem que Coming soon mais Richard Castle souhaite qu’on mette également sa photo. La page doit afficher la photo et un texte annonçant que le site est en cours de réalisation. Le résultat doit s’afficher correctement quel que soit le support.
