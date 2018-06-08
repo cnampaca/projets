@@ -66,7 +66,7 @@ L’écrivain Richard Castle vous a contacté pour créer  son site personnel. U
 - Être à l’aise avec les technologies front-end (HTML, CSS, JavaScript).
 - Connaître les bases de PHP.
 
-### Richard Castle PHP
+### Richard Castle PHP – première partie
 Brief: 
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Vous tirerez profit des possibilités offertes par PHP pour optimiser votre code.
@@ -78,7 +78,7 @@ L’écrivain Richard Castle vous a contacté pour créer  son site personnel. U
 - Être à l’aise avec les fondamentaux de PHP (variables, conditions, boucles, tableaux).
 - Connaître les bases de MySQL.
 
-### Richard Castle PHP
+### Richard Castle PHP – deuxième partie
 Brief: 
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Il vous fournit un fichier qu’il a obtenu de son éditeur et qui contient l’ensemble de son œuvre. Vous devrez utiiser ce fichier pour la page bibliographie.
