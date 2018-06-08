@@ -1,6 +1,6 @@
 # PROJET CASTLE
 
-## LEVEL 1
+## EPISODE 1
 
 **Objectif** : mettre en ligne une page avec un contenu sommaire mais prenant en compte un design responsive.
 
@@ -19,7 +19,7 @@ Brief:
 
 Idem que Coming soon mais Richard Castle souhaite qu’on mette également sa photo. La page doit afficher la photo et un texte annonçant que le site est en cours de réalisation. Le résultat doit s’afficher correctement quel que soit le support.
 
-## LEVEL 2
+## EPISODE 2
 
 **Objectif** : manipuler du texte et des images dans un contexte responsive.
 
@@ -38,7 +38,7 @@ Brief:
 
 Idem que Coming soon mais le client possède une photo qu’il souhaite utiliser comme image de fond. Le compte à rebours doit rester parfaitement lisible. Le résultat doit s’afficher correctement quel que soit le support.
 
-## LEVEL 3
+## EPISODE 3
 
 **Objectif** : créer une page de présentation à défilement vertical (type landing page).
 
@@ -47,7 +47,7 @@ Brief:
 
 L’écrivain Richard Castle vous a contacté pour créer  sa page personnelle. Une photo de lui, quelques lignes pour le présenter, et la liste de ses publications, avec une photo de la couverture et une petite description. Voilà ce qu’il demande au minimum. Il vous laisse carte blanche, mais attention il est assez exigeant.
 
-## LEVEL 4
+## EPISODE 4
 
 **Objectif** : créer un site statique simple avec quelques pages.
 
@@ -57,7 +57,7 @@ Brief:
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir.
 
 
-## LEVEL 5
+## EPISODE 5
 
 **Objectif** : utiliser PHP pour améliorer la maintenabilité d’un projet. Afficher du contenu dynamiquement.
 
@@ -71,7 +71,7 @@ Brief:
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Vous tirerez profit des possibilités offertes par PHP pour optimiser votre code.
 
-## LEVEL 6
+## EPISODE 6
 
 **Prérequis** :
 
@@ -84,7 +84,7 @@ Brief:
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Il vous fournit un fichier qu’il a obtenu de son éditeur et qui contient l’ensemble de son œuvre. Vous devrez utiiser ce fichier pour la page bibliographie.
 
 
-## LEVEL 7
+## EPISODE 7
 
 **Objectif** : utiliser conjointement PHP et MySQL.
 
@@ -93,7 +93,7 @@ Brief:
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Il lui faut aussi un blog pour pouvoir garder le contact avec ses lecteurs.
 
-## LEVEL 8
+## EPISODE 8
 
 **Objectif** : évoluer vers une architecture MVC.
 
@@ -102,7 +102,7 @@ Brief:
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Il lui faut aussi un blog pour pouvoir garder le contact avec ses lecteurs. Les lecteurs doivent pouvoir laisser des commentaires. Le site doit respecter une architecture mvc.
 
-## LEVEL 9
+## EPISODE 9
 
 **Objectif** : travailler avec un framework PHP.
 
@@ -111,7 +111,7 @@ Brief:
 
 L’écrivain Richard Castle vous a contacté pour créer  son site personnel. Une page d’accueil avec sa photo, une page avec sa bio, une page avec son œuvre, voilà ce qui lui ferait plaisir. Il faut qu’il puisse ajouter ses nouvelles publications à la bibliograhie lui même (title, date de sortie, description, image de couverture). Il lui faut aussi un blog pour pouvoir garder le contact avec ses lecteurs. Les lecteurs doivent pouvoir laisser des commentaires. Les commentaires doivent pouvoir être modérés. Le site sera développé avec le framework PHP de votre choix : Slim, Cake, Laravel ou Symfony.
 
-## LEVEL 10
+## EPISODE 10
 
 **Objectif** : travailler avec un framework JavaScript.
 
@@ -119,7 +119,7 @@ L’écrivain Richard Castle vous a contacté pour créer  son site personnel. U
 Brief: 
 Lors d’une tournée en Californie, Richard Castle a entendu dire que les frameworks Javascript avaient la côte. Il vous donne carte blanche pour que son site soit à la pointe de ce qui se fait sur le web.
 
-## LEVEL 11
+## EPISODE 11
 
 **Objectif** : maîtriser les progressive web apps.
 
