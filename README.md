@@ -1,4 +1,4 @@
-# PROJETS WEB
+# PROJET CASTLE
 
 ## LEVEL 1
 
@@ -115,5 +115,14 @@ L’écrivain Richard Castle vous a contacté pour créer  son site personnel. U
 
 **Objectif** : travailler avec un framework JavaScript.
 
-### Projet
+### Richard Castle JS
 Brief: 
+Lors d’une tournée en Californie, Richard Castle a entendu dire que les frameworks Javascript avaient la côte. Il vous donne carte blanche pour que son site soit à la pointe de ce qui se fait sur le web.
+
+## LEVEL 11
+
+**Objectif** : maîtriser les progressive web apps.
+
+### Richard Castle PWA
+Brief: 
+Lors d’un déjeuner chez Google, Richard Castle a entendu dire que les les progressive web apps c’était le futur. Il compte sur vous pour avoir la sienne.
