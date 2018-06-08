@@ -2,7 +2,7 @@
 
 ## LEVEL 1
 
-**Objectif** : mettre en ligne une page avec un contenu sommaire mais prenant en compte un responsive design.
+**Objectif** : mettre en ligne une page avec un contenu sommaire mais prenant en compte un design responsive.
 
 **Prérequis** :
 
@@ -26,7 +26,7 @@ Idem que Coming soon mais le client possède un logo qu’il souhaite d’ores e
 **Prérequis** :
 
 - Être à l’aise avec HTML et CSS. Organiser le contenu et placer les éléments sur la page ne pose pas de problème.
-– Connaître les bases de JavaScript.
+- Connaître les bases de JavaScript.
 
 ### Coming soon
 Brief:
@@ -57,7 +57,7 @@ Brief:
 
 **Objectif** : utiliser PHP pour améliorer la maintenabilité d’un projet. Afficher du contenu dynamiquement.
 
-Prérequis :
+**Prérequis** :
 
 - Être à l’aise avec les technologies front-end (HTML, CSS, JavaScript).
 - Connaître les bases de PHP.
@@ -67,7 +67,7 @@ Brief:
 
 ## LEVEL 6
 
-Prérequis :
+**Prérequis** :
 
 - Être à l’aise avec les fondamentaux de PHP (variables, conditions, boucles, tableaux).
 - Connaître les bases de MySQL.
